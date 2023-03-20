@@ -4,7 +4,7 @@ Uses the [Speech Recognition API](https://developer.mozilla.org/en-US/docs/Web/A
 
 I made this to help my kid look up how to spell words. It’s not perfect but she thought it was fun!
 
-
+<https://amundo.github.io/spell-word/spell-word.html>
 
 Made in about 15 minutes by editing ChatGPT output.
 
