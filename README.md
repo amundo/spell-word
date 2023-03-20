@@ -1,6 +1,6 @@
 # <spell-word>
 
-Uses the Speech Recognition API to spell words.
+Uses the [Speech Recognition API](https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition) to spell words.
 
 I made this to help my kid look up how to spell words. It’s not perfect but she thought it was fun!
 
