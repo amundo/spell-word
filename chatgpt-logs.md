@@ -1,14 +1,3 @@
-# <spell-word>
-
-Uses the Speech Recognition API to spell words.
-
-I made this to help my kid look up how to spell words. It’s not perfect but she thought it was fun!
-
-Made in about 15 minutes with ChatGPT, here’s the log:
-
-<details>
-<summary>Log</summary>
-
 # Speech Recognition Web Component.
 
 ### You
@@ -119,6 +108,3 @@ Sure! Here's the updated code with the web component renamed to `SpellWord`:
 
 Note that all instances of `SpeechRecognition` have been replaced with `SpellWord` in the updated code.
 
-
-
-</details>
