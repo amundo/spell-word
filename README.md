@@ -4,7 +4,16 @@ Uses the Speech Recognition API to spell words.
 
 I made this to help my kid look up how to spell words. It’s not perfect but she thought it was fun!
 
-Made in about 15 minutes with ChatGPT, here’s the log:
+
+
+Made in about 15 minutes by editing ChatGPT output.
+
+As yet incomplete docs:
+
+<https://amundo.github.io/spell-word/spell-word-docs.html>
+
+And here’s the ChatGPT log:
+
 
 <details>
 <summary>Log</summary>
